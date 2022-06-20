@@ -1,0 +1,9 @@
+librarySlice
+	- contient tout les samples dispo
+	 id, url, name, type
+	- reducer : ajouter sample, suppr un sample
+	- sampleSelectorById : get obj from id
+padSlice
+	- contient tous les pads dispo
+	sampleId, cropin, crop out
+	- reducer modif l'id du sample dans le pad
